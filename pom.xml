@@ -8,6 +8,12 @@
     <artifactId>spring-cloud-feign</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.5.2.RELEASE</version>
+    </parent>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
