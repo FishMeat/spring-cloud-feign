@@ -1,4 +1,4 @@
-package com.fishmeat;
+package com.fishmeat.feign;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
